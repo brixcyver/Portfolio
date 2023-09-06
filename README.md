@@ -1,6 +1,6 @@
 # Education
 BS Computer Science (3rd Year) <br />
-SY: 2021 - Present <br />
+SY: 2021 - Present <br /><br />
 
 # Certifications
 SQl and Relational Databases 101 from IBM <br />
